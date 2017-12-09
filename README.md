@@ -1,1 +1,1 @@
-Version 3 RELEASE
+Version 3
