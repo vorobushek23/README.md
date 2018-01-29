@@ -1,1 +1,1 @@
-Version 6 [RELEASE]
+Version 7 [DEBUG]
