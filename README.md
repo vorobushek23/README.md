@@ -1,1 +1,1 @@
-Version 12 [DEBUG - TEST] BAGS ARE POSSIBLE / ВОЗМОЖНЫ БАГИ
+Version 13 [RELEASE - TEST] BAGS ARE POSSIBLE / ВОЗМОЖНЫ БАГИ
