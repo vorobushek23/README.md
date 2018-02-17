@@ -1,1 +1,1 @@
-Version 11 [RELEASE - IN TEST]
+Version 12 [DEBUG - TEST] BAGS ARE POSSIBLE / ВОЗМОЖНЫ БАГИ
