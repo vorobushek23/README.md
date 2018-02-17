@@ -31,7 +31,7 @@ F5 Фиксация прицела [Включение/Выключение] (Д
 - Numpad7 Groza
 - Numpad8 M249
 - Numpad9 Vector
-- NumpadDiv (клавиша /) SKS | Mini14 | M14
+- NumpadDiv (клавиша /) SKS | Mini14
 - NumpadMult (клавиша *) Пистолеты
 
 F6 Закрыть скрипты [РАБОТАЕТ ТОЛЬКО В МАТЧЕ]
