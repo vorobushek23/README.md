@@ -26,7 +26,7 @@ F5 Фиксация прицела [Включение/Выключение] (Д
 - Numpad2 UZI
 - Numpad3 AKM
 - Numpad4 M416
-- Numpad5 Scar
+- Numpad5 Scar | ДП-28
 - Numpad6 M16a4
 - Numpad7 Groza
 - Numpad8 M249
