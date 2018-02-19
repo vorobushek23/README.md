@@ -21,7 +21,7 @@ F5 Фиксация прицела [Включение/Выключение] (Д
 
 
 Уменьшение отдачи (оружия / клавиши)
-- Numpad0 (Ins) Tommy Guin
+- Numpad0 (Ins) Tommy Gun
 - Numpad 1 UMP
 - Numpad2 UZI
 - Numpad3 AKM
