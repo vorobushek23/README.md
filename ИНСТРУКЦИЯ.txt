@@ -26,12 +26,12 @@ F5 Фиксация прицела [Включение/Выключение] (Д
 - Numpad2 UZI
 - Numpad3 AKM
 - Numpad4 M416
-- Numpad5 Scar | ДП-28
+- Numpad5 Scar
 - Numpad6 M16a4
 - Numpad7 Groza
-- Numpad8 M249
+- Numpad8 M249 | DP-28
 - Numpad9 Vector
-- NumpadDiv (клавиша /) SKS | Mini14
+- NumpadDiv (клавиша /) SKS | Mini14 | VSS
 - NumpadMult (клавиша *) Пистолеты
 
 F6 Закрыть скрипты [РАБОТАЕТ ТОЛЬКО В МАТЧЕ]
